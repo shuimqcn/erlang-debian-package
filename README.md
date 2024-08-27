@@ -6,7 +6,7 @@ maintained by the RabbitMQ team.
 This work is based on the [official Erlang/OTP package for Debian](https://salsa.debian.org/erlang-team/packages/erlang).
 The RabbitMQ team adapted the upstream package to produce packages for more/different
 combinations of Erlang/OTP, Debian and Ubuntu releases.
-
+ 
 Unlike Team RabbitMQ's [zero dependency Erlang/OTP RPM](https://github.com/rabbitmq/erlang-rpm), these packages
 are not monolithic and use the same dependency tree as the official Debian packages of Erlang.
 
